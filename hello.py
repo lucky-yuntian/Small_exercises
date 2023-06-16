@@ -6,3 +6,4 @@ print(len(s))
 print(s[4])
 print(type("len"))
 print(s)
+#继续
