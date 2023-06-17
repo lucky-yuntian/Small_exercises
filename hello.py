@@ -6,4 +6,4 @@ print(len(s))
 print(s[4])
 print(type("len"))
 print(s)
-#qqq
+input("Press Any Key")
